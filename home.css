@@ -72,6 +72,7 @@ body {
         width: 400px;
         padding: 5px;
     }
+}
 
 @media only screen and (max-width: 400px) {
     body {
@@ -112,7 +113,7 @@ body {
      .hms {
     font-size: 30pt;
     font-weight: 500;
-}
+   }
 
     .amPm {
         font-size: 20pt;
